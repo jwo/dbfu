@@ -1,0 +1,6 @@
+host: 'localhost'
+adapter: 'postgresql' # mysql2
+database: 'xxxxxx'
+username: 'xxxxxx'
+encoding: 'utf8'
+pool: 5
